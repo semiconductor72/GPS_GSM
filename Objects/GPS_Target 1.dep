@@ -1,0 +1,83 @@
+Dependencies for Project 'GPS', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (.\APP.c)(0x61D17189)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C8-I.\RTE\_Target_1-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o .\objects\app.o --omf_browse .\objects\app.crf --depend .\objects\app.d)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x58255B94)
+I (.\RTE\_Target_1\RTE_Components.h)(0x61C812E8)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm3.h)(0x5D25B3DE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AF540)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x58255B94)
+I (SysTickTimer.h)(0x61BEDA0A)
+I (UART2.h)(0x61CDE7D6)
+I (GPIO.h)(0x61BEDAC0)
+I (LOG.h)(0x61D0904D)
+I (GSM.h)(0x61D1432C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9AF542)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5D9AF542)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9AF540)
+F (.\SysTickTimer.c)(0x61BEDA72)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C8-I.\RTE\_Target_1-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o .\objects\systicktimer.o --omf_browse .\objects\systicktimer.crf --depend .\objects\systicktimer.d)
+I (SysTickTimer.h)(0x61BEDA0A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AF540)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x58255B94)
+I (.\RTE\_Target_1\RTE_Components.h)(0x61C812E8)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm3.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x58255B94)
+F (.\GPIO.c)(0x61BEDABE)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C8-I.\RTE\_Target_1-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (GPIO.h)(0x61BEDAC0)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x58255B94)
+I (.\RTE\_Target_1\RTE_Components.h)(0x61C812E8)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm3.h)(0x5D25B3DE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AF540)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x58255B94)
+F (.\UART2.c)(0x61D09CA6)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C8-I.\RTE\_Target_1-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o .\objects\uart2.o --omf_browse .\objects\uart2.crf --depend .\objects\uart2.d)
+I (UART2.h)(0x61CDE7D6)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x58255B94)
+I (.\RTE\_Target_1\RTE_Components.h)(0x61C812E8)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm3.h)(0x5D25B3DE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AF540)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x58255B94)
+F (.\GPIO.h)(0x61BEDAC0)()
+F (.\SysTickTimer.h)(0x61BEDA0A)()
+F (.\UART2.h)(0x61CDE7D6)()
+F (.\LOG.h)(0x61D0904D)()
+F (.\LOG.c)(0x61D0963D)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C8-I.\RTE\_Target_1-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o .\objects\log.o --omf_browse .\objects\log.crf --depend .\objects\log.d)
+I (LOG.h)(0x61D0904D)
+I (UART2.h)(0x61CDE7D6)
+F (.\GSM.h)(0x61D1432C)()
+F (.\GSM.c)(0x61D166E1)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C8-I.\RTE\_Target_1-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o .\objects\gsm.o --omf_browse .\objects\gsm.crf --depend .\objects\gsm.d)
+I (GSM.h)(0x61D1432C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AF540)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9AF542)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5D9AF542)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9AF540)
+I (UART2.h)(0x61CDE7D6)
+F (.\Interrupt.h)(0x61D05F65)()
+F (.\Interrupt.c)(0x61D09C62)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C8-I.\RTE\_Target_1-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o .\objects\interrupt.o --omf_browse .\objects\interrupt.crf --depend .\objects\interrupt.d)
+I (GSM.h)(0x61D1432C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AF540)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9AF542)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5D9AF542)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9AF540)
+I (UART2.h)(0x61CDE7D6)
+F (RTE\Device\STM32F103C8\RTE_Device.h)(0x592802CE)()
+F (RTE\Device\STM32F103C8\startup_stm32f10x_md.s)(0x58255B94)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\Device\STM32F103C8-I.\RTE\_Target_1-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include"--pd "__UVISION_VERSION SETA 529" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (RTE\Device\STM32F103C8\system_stm32f10x.c)(0x58255B94)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C8-I.\RTE\_Target_1-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include"-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x58255B94)
+I (.\RTE\_Target_1\RTE_Components.h)(0x61C812E8)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm3.h)(0x5D25B3DE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9AF540)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25B3DE)
+I (C:\Users\Semiconductor Valley\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x58255B94)
